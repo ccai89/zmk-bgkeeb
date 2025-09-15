@@ -87,10 +87,8 @@
             >;
 
             sensor-bindings =
-                <&inc_dec_kp C_VOL_UP C_VOL_DN>,
+                <&inc_dec_kp K_VOL_UP K_VOL_DN>,
                 <&inc_dec_kp UP DOWN>;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         nav_layer {
