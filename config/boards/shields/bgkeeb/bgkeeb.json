@@ -57,14 +57,6 @@
       "compatible": "alps,ec11",
       "label": "encoder",
       "enabled": true
-    },
-    {
-      "ref": "encoder",
-      "name": "encoder",
-      "identifier": "encoder",
-      "compatible": "alps,ec11",
-      "label": "encoder",
-      "enabled": true
     }
   ]
 }

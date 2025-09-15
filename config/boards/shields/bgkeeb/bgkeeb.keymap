@@ -83,7 +83,6 @@
                               &kp K_MUTE  &kp DEL       &lt NAV RET  &lt FUNC TAB  &lt MEDIA BSPC   &lt SYM SPACE &kp SQT      &pht RCTL BSPC
             >;
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         nav_layer {
